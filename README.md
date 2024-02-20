@@ -15,3 +15,5 @@ npx nx g @angular-architects/native-federation:ng-add
 npx nx serve mfe -o
 
 npx nx build mfe
+
+https://remote-angula-17-nx-native-federation.netlify.app/
